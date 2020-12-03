@@ -15,16 +15,16 @@ This will install the package as a dev dependancy.
 
 Execute below commands as required.
 
-#####To Enable Local packages.
+##### To Enable Local packages.
 ```bash
 php artisan cool:enable vendor package
 ````
 
-####To Disable Local packages.
+#### To Disable Local packages.
 ```bash
 php artisan cool:disable vendor package
 ````
-####To Remove Local packages.
+#### To Remove Local packages.
 ```bash
 php artisan cool:remove vendor package
 ````
