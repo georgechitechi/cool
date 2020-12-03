@@ -19,7 +19,6 @@ class CoolServiceProvider extends ServiceProvider
             $this->commands([
                 \Georgechitechi\Cool\Commands\EnablePackageCommand::class,
                 \Georgechitechi\Cool\Commands\DisablePackageCommand::class,
-                \Georgechitechi\Cool\Commands\RemovePackageCommand::class,
             ]);
         }
 	}
