@@ -1,0 +1,33 @@
+{
+  "name": "georgechitechi/cool",
+  "description": "Awesome Cool Package",
+  "keywords": ["Laravel", "Cool"],
+  "authors": [
+    {
+      "name": "George Chitechi",
+      "email": "george@flightasdmin.com",
+	  "homepage": "https://github.com/georgechitechi/cool"
+    }
+  ],
+  "homepage": "https://github.com/georgechitechi/cool",
+  "require": {
+    "php": "^7.3|^8.0",
+    "laravel/framework": "^5.7|^6|^7|^8"
+  },
+  "require-dev": { },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Georgechitechi\\Cool\\": "src/"
+    }
+  },
+
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Georgechitechi\\Cool\\CoolServiceProvider"
+      ]
+    }
+  },
+  "scripts": { }
+}
