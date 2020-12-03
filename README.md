@@ -1,8 +1,6 @@
 # Cool
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/georgechitechi/cool.svg?style=flat-square)](https://packagist.org/packages/georgechitechi/cool)
-[![Build Status](https://img.shields.io/travis/georgechitechi/cool/master.svg?style=flat-square)](https://travis-ci.org/georgechitechi/cool)
-[![Quality Score](https://img.shields.io/scrutinizer/g/georgechitechi/cool.svg?style=flat-square)](https://scrutinizer-ci.com/g/georgechitechi/cool)
 [![Total Downloads](https://img.shields.io/packagist/dt/georgechitechi/cool.svg?style=flat-square)](https://packagist.org/packages/georgechitechi/cool)
 
 This Package provides easy way to enable, disable and Remove packages during local laravel development.
