@@ -20,12 +20,12 @@ Execute below commands as required.
 
 #### To Enable Local packages.
 ```bash
-php artisan cool:enable vendor package
+php artisan cool:enable {vendor} {package}
 ````
 
 #### To Disable Local packages.
 ```bash
-php artisan cool:disable vendor package
+php artisan cool:disable {vendor} {package}
 ````
 #### To Remove Local packages.
 ```bash
@@ -33,9 +33,9 @@ php artisan cool:remove vendor package
 ````
 **Replace**
 
-*vendor with the package vendor-name*
+*{vendor} with the package vendor-name*
 
-*package with the package-name*
+*{package} with the package-name*
 
 ## Conclussion
 This package will be helpful with local development.
